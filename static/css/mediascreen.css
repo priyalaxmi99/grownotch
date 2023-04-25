@@ -1,0 +1,306 @@
+@media (max-width: 991px) {
+    .faq {
+        margin-bottom: 30px;
+    }
+    .faq .card .card-header .faq-title {
+        line-height: 26px;
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width: 800px) {
+    p.footer_para {
+        margin-bottom: 20px;
+    }
+    .banner_cnt,
+    .row.built_one,
+    .row.include,
+    .row.markting_prblm_two,
+    .row.rech_two {
+        padding-top: 0;
+    }
+    a.drop_link,
+    a.drop_link:hover {
+        color: #fff !important;
+    }
+    .ft_social,
+    p.copys_para,
+    p.world_cls_target_para {
+        text-align: center;
+    }
+    h1.decisions_head {
+        padding-left: 15px;
+        padding-right: 15px;
+        font-size: 28px;
+        line-height: 35px;
+    }
+    a.ft_mail {
+        font-size: 16px;
+    }
+    .contact_detail_main,
+    .decisions_image,
+    .project_call_btn,
+    h5.infidigit_sub {
+        margin-top: 30px;
+    }
+    h3.leverage_head {
+        font-size: 26px;
+        line-height: 34px;
+        margin-bottom: 30px;
+    }
+    h3.statergy_head {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+        color: #000 !important;
+    }
+    .col-md-3.ft3,
+    .col-md-3.ft4,
+    img.infidigit_img,
+    img.orm_img,
+    img.pepper_img,
+    img.virtual_img {
+        width: 100%;
+    }
+    section.container.testmo_review {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .optimization_content,
+    h2.behind_head,
+    h2.client_says_head,
+    h2.markting_prblm_head,
+    h3.business_digital_head,
+    h3.markting_prblm_sub,
+    h3.smart_tech_head,
+    h3.virtual_hd,
+    p.business_digital_para.main,
+    p.marking_prblm_para,
+    p.virtual_para,
+    p.virtual_para.two {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .review {
+        border-radius: 0;
+    }
+    .button-container {
+        margin-top: 70px;
+    }
+    h1.banner_heading.zoom-in {
+        animation: none;
+        transform: none;
+        transition: none;
+    }
+    .row.desk,
+    .row.webdesign_desk {
+        display: none;
+    }
+    .row.mob,
+    .row.webdesign_mob {
+        display: revert;
+    }
+    nav.navbar.navbar-inverse.navbar-fixed-top {
+        background: #fff;
+    }
+    .optimization_content {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    img.logo {
+        width: auto;
+        height: 25px;
+    }
+    .bs-slider,
+    .container-fluid.local_seo {
+        margin-top: 50px;
+    }
+    ul.nav.navbar-nav.left-side {
+        margin-top: 18px;
+        margin-left: 0;
+    }
+    .navbar-nav > li {
+        width: 80%;
+    }
+    .fade-in-left,
+    .fade-in-right,
+    .flip-down-left,
+    .flip-down-right,
+    .flip-in-left,
+    .flip-in-right {
+        animation: none;
+        visibility: visible !important;
+        transform: translateX(0) !important;
+        transition: none;
+        opacity: 1 !important;
+    }
+    .sticky1 {
+        top: 86%;
+    }
+    i.fa.fa-whatsapp.whatsappimg {
+        margin-top: 1px;
+    }
+    .cp-widget-button {
+        display: revert;
+        top: 83%;
+    }
+    .banner_cnt {
+        padding-bottom: 0;
+    }
+    .banner_back {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        background-size: auto;
+    }
+    .ft_social {
+        float: inherit;
+    }
+    .digital_growth_cnt,
+    .mission_cnt,
+    .vision_cnt {
+        margin-top: 0;
+    }
+    .wall_cnt {
+        margin-top: 40px;
+    }
+    .card.built,
+    .card.include,
+    .card.markting_prblm,
+    .card.reach,
+    .smart_tech_image,
+    .virtual_image {
+        margin-bottom: 30px;
+    }
+    li.footer_social_list.drop-bounce {
+        margin-left: 0;
+        margin-right: 30px;
+    }
+    a.drop_link:hover {
+        background: 0 0 !important;
+    }
+    h3.matric_head {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    img.matric_icon_img {
+        float: left;
+    }
+    li.matric_list {
+        margin-bottom: 25px;
+    }
+    .container-fluid.matric {
+        padding-bottom: 15px;
+    }
+    h3.next_level_head {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    h1.digital_market_head,
+    h1.represent_head,
+    h1.webdesign_service_head {
+        font-size: 30px;
+    }
+    img.eCommerce_img,
+    img.responsive_img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .digital_market_cnt {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    h2.markting_prblm_head {
+        font-size: 26px;
+    }
+    h3.business_digital_head,
+    h3.markting_prblm_sub {
+        font-size: 24px;
+    }
+    .container-fluid.global_reach,
+    .container-fluid.markting_prblm {
+        padding-bottom: 10px;
+    }
+    .business_digital_cnt {
+        margin-top: 25px;
+    }
+    .business_digital_image {
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    .world_cls_icons {
+        margin-bottom: 40px;
+    }
+    h3.world_cls_target_head {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .navigating_main.border {
+        border-right: none;
+    }
+    h1 {
+        font-size: 32px;
+        font-weight: 800;
+    }
+    h4.logo_heading {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    a.navbar-brand {
+        padding: 0px;
+        padding-bottom: 95px;
+    }
+	.navbar-toggle {
+    margin-top: 30px;
+}
+}
+@media screen and (max-width: 640px) {
+    .sticky1 {
+        top: 77%;
+    }
+    .cp-widget-button {
+        top: 68%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .sticky1 {
+        top: 85%;
+    }
+    .cp-widget-button {
+        top: 82%;
+    }
+}
+@media screen and (max-width: 540px) {
+    .cp-widget-button {
+        top: 81%;
+    }
+}
+@media screen and (max-width: 467px) {
+    .cp-widget-button {
+        top: 80%;
+    }
+}
+@media screen and (max-width: 412px) {
+    .sticky1 {
+        top: 83%;
+    }
+    .cp-widget-button {
+        top: 79%;
+    }
+}
+@media screen and (max-width: 400px) {
+    .sticky1 {
+        top: 78%;
+    }
+    i.fa.fa-whatsapp.whatsappimg {
+        margin-top: 2px;
+        padding-top: 1px;
+    }
+    .cp-widget-button {
+        top: 74%;
+    }
+}
+@media screen and (max-width: 384px) {
+    .cp-widget-button {
+        top: 74%;
+    }
+}
